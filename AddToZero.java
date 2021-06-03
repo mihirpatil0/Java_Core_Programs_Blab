@@ -32,6 +32,10 @@ public class AddToZero
 					{
 						System.out.println("The sume of 3 integer" + " " + arrStoreNo[a]+"+"+arrStoreNo[b]+"+"+arrStoreNo[c] + " = 0");
 					}
+					else
+					{
+						System.out.println("Cant find sum = 0");
+					}
 				}
 			}
 		}
